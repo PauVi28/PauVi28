@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PauVi28/PauVi28/main/banner.png" alt="Banner">
+  <img src="bannerPV.png" alt="Paulina Vizcaíno Banner" width="100%">
 </p>
 
 <h1 align="center">Paulina Vizcaíno</h1>
