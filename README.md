@@ -1,7 +1,7 @@
 # Hi 👋 I'm Paulina Vizcaíno
 
 <p align="center">
-  <img src="bannerPV.png" alt="Paulina Vizcaíno Banner" width="100%">
+  <img src="banner.png" alt="Paulina Vizcaíno Banner" width="100%">
 </p>
 
 ## 🚀 About Me
