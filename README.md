@@ -38,3 +38,4 @@
 <p align="center">
 Academic Director | Artificial Intelligence | Data Science | Educational Innovation
 </p>
+> "Investigating, innovating and transforming education through Artificial Intelligence, Data Science and Human-Centered Technology."
