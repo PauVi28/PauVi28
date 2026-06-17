@@ -1,4 +1,4 @@
-# Hi 👋 I'm Paulina Vizcaíno
+# PhD. Paulina Vizcaíno
 
 <p align="center">
   <img src="banner.png" alt="Paulina Vizcaíno Banner" width="100%">
